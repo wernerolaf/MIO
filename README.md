@@ -1,0 +1,2 @@
+# MIO
+Metody Inteligencji Obliczeniowej
